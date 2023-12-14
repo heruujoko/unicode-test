@@ -120,7 +120,7 @@ export default function Home() {
         type: 'website',
         url: 'https://www.example.com/page',
         title: 'Open Graph Title &#9733; &starf; \U+2606',
-        description: 'Open Graph Description',
+        description: 'Open Graph Description &#9733; &starf; \U+2606',
         images: [
           {
             url: 'https://www.example.ie/og-image.jpg',
