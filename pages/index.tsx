@@ -119,7 +119,7 @@ export default function Home() {
       openGraph={{
         type: 'website',
         url: 'https://www.example.com/page',
-        title: 'Open Graph Title &#9733; &starf;',
+        title: 'Open Graph Title &#9733; &starf; \U+2606',
         description: 'Open Graph Description',
         images: [
           {
